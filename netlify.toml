@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "generalquestions.html"
+  status = 200
